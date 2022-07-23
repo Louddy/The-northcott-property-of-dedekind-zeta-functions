@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - given-names: 'Xavier '
+    family-names: Généreux
+    email: xavier.genereux@umontreal.ca
+    affiliation: Université de Montréal
+  - given-names: Matilde
+    family-names: Lalín
+    email: matilde.lalin@umontreal.ca
+    affiliation: Université de Montréal
+title: "-The-northcott-property-of-dedekind-zeta-functions"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-07-22
+url: "https://github.com/Louddy/-The-northcott-property-of-dedekind-zeta-functions"
+
+
+
